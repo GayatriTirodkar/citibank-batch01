@@ -1,0 +1,86 @@
+[{
+        "product_id": "789013",
+        "name": "Smartwatch",
+        "brand": "XYZ",
+        "price": 199.99,
+        "details": {
+            "screen": {
+                "size": "15.6 inches",
+                "resolution": "1920x1080 Full HD",
+                "panel_type": "IPS"
+            },
+            "processor": {
+                "brand": "Intel",
+                "model": "Core i7-10750H",
+                "clock_speed": "2.60 GHz",
+                "cores": 6,
+                "threads": 12,
+                "cache": "12 MB"
+            },
+            "memory": {
+                "type": "DDR4",
+                "size": "16 GB",
+                "speed": "2666 MHz"
+            },
+            "storage": {
+                "type": "SSD",
+                "capacity": "512 GB",
+                "interface": "NVMe PCIe"
+            },
+            "graphics": {
+                "brand": "NVIDIA",
+                "model": "GeForce RTX 2060",
+                "memory": "6 GB GDDR6"
+            },
+            "battery": {
+                "type": "Lithium-ion",
+                "capacity": "60 Wh",
+                "life": "Up to 8 hours"
+            },
+            "features": ["Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
+        },
+        "reviews": [{
+                "username": "user6",
+                "rating": 4.5,
+                "comment": "Great features and battery life."
+            }, {
+                "username": "user7",
+                "rating": 4,
+                "comment": "Good value for money."
+            }
+        ],
+        "sellers": ["Seller 01", "Seller 02"]
+    }, {
+        "product_id": "789014",
+        "name": "Wireless Earbuds",
+        "brand": "ABC",
+        "price": 79.99,
+        "details": {
+            "screen": {
+                "size": "6.5 inches",
+                "type": "AMOLED"
+            },
+            "camera": {
+                "primary": "12 MP",
+                "secondary": "8 MP"
+            },
+            "storage": {
+                "internal": "128 GB",
+                "external": "Expandable up to 256 GB",
+                "features": ["Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
+            },
+            "connectivity": "Bluetooth 5.0"
+        },
+        "reviews": [{
+                "username": "user8",
+                "rating": 4,
+                "comment": "Good sound quality and comfortable fit."
+            }, {
+                "username": "user9",
+                "rating": 3.5,
+                "comment": "Decent battery life but connectivity issues sometimes."
+            }
+        ],
+        "sellers": ["Seller 01", "Seller 02"]
+    }
+]
